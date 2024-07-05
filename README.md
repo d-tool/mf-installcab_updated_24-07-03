@@ -7,6 +7,7 @@ Installcab based Media Foundation workaround for Wine
 - Resident Evil 7
 - Darksiders Warmastered Edition
 - Devil May Cry 5
+- Borderlands 3
 
 Just set WINEPREFIX and run install-mf-64.sh like this
 
